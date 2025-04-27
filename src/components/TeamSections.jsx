@@ -8,7 +8,7 @@ const people = [
     {
         name: 'P. Diddy',
         role: 'Investor',
-        imageUrl:'/images/pdiddy.jpg'
+        imageUrl:'images/pdiddy.jpg'
     },
     {
         name: 'Tung Tung Sahur',
