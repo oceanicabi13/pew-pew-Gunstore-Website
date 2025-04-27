@@ -3,7 +3,7 @@ const products = [
         id: 1, 
         name: 'AK-47', 
         price: '$1,000', 
-        image: '/images/AK-47(1).jpg'},
+        image: '/images/AK-47(1).png'},
     { 
         id: 2, 
         name: 'M4A1', 
